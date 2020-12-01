@@ -22,7 +22,8 @@ export default (() => {
 			</Text>
 			<Text as="p" font="--headline3" margin="20px 0 0 0" text-align="center" />
 			<Text font="40px " />
-			<Image width="530px" height="134px" src="https://uploads.quarkly.io/5fc6ad8fcae167001e070f6f/images/NOTrobot.jpg?v=2020-12-01T20:55:19.783Z" />
+			<p><a href="https://www.linkedin.com/jobs"><img src="https://uploads.quarkly.io/5fc6ad8fcae167001e070f6f/images/NOTrobot.jpg?v=2020-12-01T20:55:19.783Z" width="530" 
+   height="134" border="0"></a></p>
 		</Section>
 		<Link
 			font={"--capture"}
